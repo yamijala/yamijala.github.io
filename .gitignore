@@ -1,5 +1,6 @@
 # Ignore docs files
 _site
+.sass
 
 # ignore extensions
 *.diff
