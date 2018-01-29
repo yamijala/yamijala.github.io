@@ -30,3 +30,5 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # minimal mistakes theme
 gem "minimal-mistakes-jekyll"
+gem "jekyll-theme-slate"
+#gem "jekyll-theme-minimal"

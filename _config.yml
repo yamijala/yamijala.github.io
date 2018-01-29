@@ -27,11 +27,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  yamijala
 
 # Build settings
-theme: jekyll-theme-slate
+theme: minima
 markdown: kramdown
-#theme: minima
 #theme: jekyll-theme-minimal
 #theme: minimal-mistakes-jekyll
+#theme: jekyll-theme-slate
 markdown: kramdown
 plugins:
   - jekyll-feed
