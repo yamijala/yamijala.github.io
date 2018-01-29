@@ -29,7 +29,10 @@ github_username:  yamijala
 # Build settings
 theme: jekyll-theme-slate
 markdown: kramdown
+#theme: minima
+#theme: jekyll-theme-minimal
 #theme: minimal-mistakes-jekyll
+markdown: kramdown
 plugins:
   - jekyll-feed
 
